@@ -9,10 +9,11 @@ For code like PHP, when sending lines or selections, `<?php` is automatically pr
 ### Currently supported
 
 * PHP
+* Lua (like ULua)
 
 ### Soon to be supported
+
 * Lisp (such as CLISP)
-* Lua (like ULua)
 * Python
 
 And so on.
