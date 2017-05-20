@@ -2,8 +2,16 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom-repl",
-        "command": "atom-repl:toggle"
+        "label": "REPL File",
+        "command": "atom-repl:run-file"
+      },
+      {
+        "label": "REPL Selection",
+        "command": "atom-repl:run-selection"
+      },
+      {
+        "label": "REPL Line",
+        "command": "atom-repl:run-line"
       }
     ]
   },
@@ -15,8 +23,16 @@
           "label": "atom-repl",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atom-repl:toggle"
+              "label": "REPL File",
+              "command": "atom-repl:run-file"
+            },
+            {
+              "label": "REPL Selection",
+              "command": "atom-repl:run-selection"
+            },
+            {
+              "label": "REPL Line",
+              "command": "atom-repl:run-line"
             }
           ]
         }

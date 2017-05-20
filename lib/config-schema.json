@@ -1,0 +1,22 @@
+{
+  "lispPath": {
+    "type": "string",
+    "description": "The full path to your lisp executable.",
+    "default":"none"
+  },
+  "luaPath": {
+    "type": "string",
+    "description": "The full path to your lua executable",
+    "default":"none"
+  },
+  "phpPath": {
+    "type":"string",
+    "description": "You should have gotten this by now.",
+    "default":"none"
+  },
+  "pythonPath": {
+    "type":"string",
+    "description":"You know what to put here.",
+    "default":"none"
+  }
+}

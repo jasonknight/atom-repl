@@ -1,5 +1,7 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-repl:toggle"
+    "alt-0": "atom-repl:run-file",
+    "alt-9": "atom-repl:run-selection",
+    "alt-8": "atom-repl:run-line"
   }
 }
