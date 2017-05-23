@@ -1,15 +1,15 @@
 {
   "name": "atom-repl",
   "main": "./lib/atom-repl",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Implementation of Fake REPLs for Lisp, Lua, Python, PHP and Ruby. Code is executed in the background via temporary files.",
   "keywords": [
-      "REPL",
-      "Lisp",
-      "Ruby",
-      "Python",
-      "PHP",
-      "Lua"
+    "REPL",
+    "Lisp",
+    "Ruby",
+    "Python",
+    "PHP",
+    "Lua"
   ],
   "repository": "https://github.com/jasonknight/atom-repl",
   "license": "MIT",
@@ -17,6 +17,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-      "tempy": ">=0.1.0"
+    "tempy": ">=0.1.0"
   }
 }
