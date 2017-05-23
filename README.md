@@ -19,6 +19,7 @@ If you make a pull request in Coffeescript and cson, I won't merge it, but I'll 
 * Lua (like ULua)
 * Lisp (such as CLISP)
 * Python
+* Ruby
 
 ### Soon to be supported
 
