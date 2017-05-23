@@ -36,4 +36,4 @@ Place all generic features into atom-repl-utils.js
 
 Or if you intend to create some additional helper class, do that. I am pretty easy going. Just make sure you do it in vanilla javascript, not coffeescript.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![A screenshot of your package](https://raw.githubusercontent.com/jasonknight/atom-repl/master/ScreenShot.png)
