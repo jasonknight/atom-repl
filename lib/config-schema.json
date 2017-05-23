@@ -18,5 +18,10 @@
     "type":"string",
     "description":"You know what to put here.",
     "default":"none"
+  },
+  "rubyPath": {
+    "type":"string",
+    "description":"You know what to put here.",
+    "default":"none"
   }
 }
